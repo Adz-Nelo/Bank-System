@@ -1,2 +1,3 @@
 # Bank-System
 This is my first time posting my program independently all thanks to Bro Code if you're reading this, you are a legend you explain it decently pure GIGAChad...
+It may not be perfect but atleast I tried..
